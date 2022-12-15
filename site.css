@@ -1,0 +1,26 @@
+h1 {
+    font-size: 40px;
+    color: rgb(74, 123, 173);
+}
+
+h2 {
+    font-size: 40px;
+    color: rgb(74, 123, 173);
+}
+
+body{
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+body{
+    list-style-position: inside
+}
+
+.b1 {
+    text-align: center;
+}
